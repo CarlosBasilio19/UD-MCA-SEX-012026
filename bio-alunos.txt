@@ -1,1 +1,7 @@
-aaaaaaaaaak
+Nome: Carlos Basilio
+RA: 823148800 Curso: Engenharia de Software
+Semestre: 7º
+Bairro: aricanduva
+Cê trabalha: Sim, implantaçao de redes
+Objetivo: Atuar com Engenharia de Software
+
