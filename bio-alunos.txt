@@ -1,7 +1,10 @@
-Nome: Carlos Basilio
-RA: 823148800 Curso: Engenharia de Software
-Semestre: 7º
-Bairro: aricanduva
-Cê trabalha: Sim, implantaçao de redes
-Objetivo: Atuar com Engenharia de Software
+---
+Nome: João Pedro Oliveira
+RA: 123456789
+Curso: Engenharia de Software
+Semestre: 4
+Bairro: Santo André
+Se trabalha: Trabalho como auxiliar administrativo
+Objetivo: Atuar na área de desenvolvimento de software
+---
 
