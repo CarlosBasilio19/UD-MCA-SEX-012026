@@ -1,3 +1,10 @@
+Nome: Maria Silva Santos
+RA: 987654321
+Curso: Engenharia de Software
+Semestre: 3
+Bairro: São Caetano do Sul
+Se trabalha: Não trabalho
+Objetivo: Trabalhar com análise de sistemas e desenvolvimento de aplicações web
 ---
 Nome: João Pedro Oliveira
 RA: 123456789
