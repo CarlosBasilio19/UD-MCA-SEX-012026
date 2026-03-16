@@ -1,1 +1,28 @@
-aaaaaaaaaa
+---
+Nome: Carlos Eduardo Basilio Vieira dos Santos
+RA: 000000
+Curso: Engenharia de Software
+Semestre: 4
+Bairro: São Caetano do Sul
+Se trabalha: Trabalho no mercado Kanguru
+Objetivo: Trabalhar com banco de dados e análise de dados
+---
+
+Nome: Maria Silva Santos
+RA: 987654321
+Curso: Engenharia de Software
+Semestre: 3
+Bairro: São Caetano do Sul
+Se trabalha: Não trabalho
+Objetivo: Trabalhar com análise de sistemas e desenvolvimento de aplicações web
+---
+Nome: João Pedro Oliveira
+RA: 123456789
+Curso: Engenharia de Software
+Semestre: 4
+Bairro: Santo André
+Se trabalha: Trabalho como auxiliar administrativo
+Objetivo: Atuar na área de desenvolvimento de software
+---
+
+
